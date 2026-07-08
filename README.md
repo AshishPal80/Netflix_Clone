@@ -20,9 +20,7 @@ https://primescreen.netlify.app/
 
 Add screenshots of your project inside a `screenshots/` folder.
 
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop](screenshots/desktop.png) | ![Mobile](screenshots/mobile.png) |
+ ![Desktop](assets/images/Screenshot.png)
 
 ---
 

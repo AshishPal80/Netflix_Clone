@@ -8,9 +8,7 @@ A responsive **Netflix landing page clone** built using **HTML5** and **CSS3**. 
 
 ## 🌐 Live Demo
 
-Add your deployed project link here:
-
-```text
+```
 https://primescreen.netlify.app/
 ```
 
@@ -18,7 +16,6 @@ https://primescreen.netlify.app/
 
 ## 📸 Screenshots
 
-Add screenshots of your project inside a `screenshots/` folder.
 
  ![Desktop](assets/images/Screenshot.png)
 
